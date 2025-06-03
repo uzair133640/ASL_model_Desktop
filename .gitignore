@@ -1,0 +1,29 @@
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
+.env.*
+
+# TensorFlow and model artifacts (optional)
+*.h5
+*.tflite
+*.pb
