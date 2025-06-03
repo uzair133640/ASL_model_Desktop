@@ -23,7 +23,4 @@ Thumbs.db
 *.env
 .env.*
 
-# TensorFlow and model artifacts (optional)
-*.h5
-*.tflite
-*.pb
+
